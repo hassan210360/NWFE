@@ -49,7 +49,7 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "pwa-switcher": false,
-    "uniqCompNum": 21,
+    "uniqCompNum": 22,
     "versionPublish": "4.12.3"
   },
   "pages": {
@@ -198,7 +198,7 @@
             }
           },
           "title": "<b>NWFE-EP</b>",
-          "text": "NWFE-EP is the Nexus for Water, Food and Energy, this site pertains to the Tecnical Support Unit for the Energy Pilar (EP) - the TSU team is working with the EBRD Regonal Office in Cairo",
+          "text": "NWFE-EP is the Nexus for Water, Food and Energy, this site pertains to the Technical Support Unit for the Energy Pilar (EP) - the TSU team is working with the EBRD Regional Office in Cairo",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">Learn more</a>",
           "_tags": [
             "Theme"
